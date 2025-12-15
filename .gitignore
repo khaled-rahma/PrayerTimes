@@ -1,0 +1,16 @@
+node_modules 
+.env 
+.DS_Store 
+# dependencies
+/node_modules
+
+# بيئة التشغيل
+.env
+.env.local
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات التسجيل
+*.log

@@ -1,0 +1,36 @@
+        body{
+            background: linear-gradient(45deg,#240165,#05001c);
+            font-family: 'Tajawal',sans-serif;
+        }
+        #city-name{
+            font-size:100px;
+            font-weight:400
+        }
+        h1,h2,h3,h4,h5,h6{
+            margin:0;
+        }
+        .card{
+            width:12%;
+            height:95%;
+            background-color: white;
+            font-size:20px;
+            box-shadow: 0px 10px 5px rgb(0 0 0 /30%);
+
+        }
+        .header {
+         background:linear-gradient(45deg,#5709ee,#7a37bf);
+         color:white;
+        }
+        .header h1{
+            font-weight:400;
+            padding:5px;
+            text-align: center;
+        }
+        .center{
+            display:flex;
+            justify-content:center;
+            align-items: center;
+        }
+        .time{
+            font-size:50px;
+        }
